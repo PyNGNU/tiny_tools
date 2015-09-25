@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
 """Return success."""
 
-raise SystemExit(0)
+
+def main(args=None):
+    raise SystemExit(0)
+
+if __name__ == '__main__':
+    main()
